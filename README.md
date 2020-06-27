@@ -2,8 +2,8 @@ FIRESCustom GCC TRIGGER PLUGS:
 3D-printable trigger plugs for use in Nintendo GameCube Controllers (GCCs)
 
 GCCs have two sensors per trigger: one analog slider and one digital button:
-SHORT: Short analog pull followed by a digital "click." Reduces the overall stroke length of the trigger, but preserves both analog and digital inputs (i.e. Melee lightshielding)
-LONG: Immediate digital "click." Used when digital input only is desired.
+- SHORT: Short analog pull followed by a digital "click." Reduces the overall stroke length of the trigger, but preserves both analog and digital inputs (i.e. Melee lightshielding)
+- LONG: Immediate digital "click." Used when digital input only is desired.
 
 NOTES PRINTING:
 - Plugs should be printed with the flat circular face on the bed of the printer.
