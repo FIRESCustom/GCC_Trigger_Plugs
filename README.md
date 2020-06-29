@@ -6,10 +6,11 @@ GCCs have two sensors per trigger: one analog slider and one digital button:
 - LONG: Immediate digital "click." Used when digital input only is desired.
 
 PRINTING NOTES:  
+- Due to variances between 3D printers and trigger shafts, X/Y scaling MUST be adjusted to get a good fit!  
 - Plugs should be printed with the flat circular face on the bed of the printer.
-- Layer seam can be placed along any of the three recesses to prevent spots / voids from affecting the fit.
-- Due to variances between 3D printers and trigger shafts, you will need to adjust X/Y scaling to get a perfect fit. The same trigger plug will fit loosely in some triggers, and very tightly in others.
-- If a tight fit is desired, printing with PETG is recommended over PLA. PETG's added toughness and ductility will help prevent the plug stem from snapping off inside the trigger.
+- Layer seam can be placed along any of the three recesses to prevent spots / voids from affecting the fit.  
+- Due to variances between OEM triggers, the same plug will fit loosely in some triggers and very tightly in others - this is normal.  
+- If a tight fit is desired, printing with PETG is recommended over PLA. PETG's added toughness will help prevent the plug stem from snapping off inside the trigger during removal.
 
 FIRES CUSTOM CONTROLLER  
 www.firescc.com  
