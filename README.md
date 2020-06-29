@@ -10,7 +10,7 @@ PRINTING NOTES:
 - Plugs should be printed with the flat circular face on the bed of the printer.
 - Layer seam can be placed along any of the three recesses to prevent spots / voids from affecting the fit.  
 - Due to variances between OEM triggers, the same plug will fit loosely in some triggers and very tightly in others - this is normal.  
-- If a tight fit is desired, printing with PETG is recommended over PLA. PETG's added toughness will help prevent the plug stem from snapping off inside the trigger during removal.
+- If a tight fit is desired, printing with PETG is recommended over PLA. PETG's added toughness will help prevent the plug stem from snapping off inside the trigger if it gets stuck.
 
 FIRES CUSTOM CONTROLLER  
 www.firescc.com  
